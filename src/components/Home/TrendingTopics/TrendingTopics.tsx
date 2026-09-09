@@ -1,4 +1,3 @@
-import React from 'react'
 import { Button } from '../../ui/button'
 import useTrendingTopics from '@/Hooks/API_Hooks/useTrendingTopics'
 import { Skeleton } from "@/components/ui/skeleton"
